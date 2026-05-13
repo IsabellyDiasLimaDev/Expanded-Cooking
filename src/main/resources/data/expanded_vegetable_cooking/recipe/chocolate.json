@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:cocoa_beans",
+    "minecraft:milk_bucket"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expanded_vegetable_cooking:chocolate"
+  }
+}

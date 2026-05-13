@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "expanded_vegetable_cooking:cooked_beans",
+    "expanded_vegetable_cooking:flour"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expanded_vegetable_cooking:beans_with_flour"
+  }
+}

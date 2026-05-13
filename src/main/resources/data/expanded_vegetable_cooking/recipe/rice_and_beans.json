@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "expanded_vegetable_cooking:cooked_rice",
+    "expanded_vegetable_cooking:cooked_beans"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expanded_vegetable_cooking:rice_and_beans"
+  }
+}

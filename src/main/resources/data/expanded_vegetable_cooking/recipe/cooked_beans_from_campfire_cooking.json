@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": "expanded_vegetable_cooking:raw_beans_bowl",
+  "result": {
+    "id": "expanded_vegetable_cooking:cooked_beans"
+  }
+}

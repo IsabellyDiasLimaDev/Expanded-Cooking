@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:egg"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expanded_vegetable_cooking:raw_pasta"
+  }
+}

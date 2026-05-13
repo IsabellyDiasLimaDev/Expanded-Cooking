@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "expanded_vegetable_cooking:tomato",
+    "expanded_vegetable_cooking:tomato",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expanded_vegetable_cooking:tomato_sauce"
+  }
+}
